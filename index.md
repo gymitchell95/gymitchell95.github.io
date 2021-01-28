@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Projects of Grace Mitchell
+description: She is so cool.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
