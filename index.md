@@ -11,8 +11,6 @@ THE LEADERSHIP COUNCIL ON LEGAL DIVERSITY is an organization of more than 350 co
 
 ---
 
----
-
 Leaders at the Front is a peer-driven initiative designed to make diversity, equity, and inclusion sustainable within our organizations and our profession. It asks the Members of LCLD, the leaders of the legal profession, to expand their commitments to inclusion by personally creating leadership paths for diverse attorneys and driving sustainable cultural changes within their organizations.
 
 ![My Picture](/Pics/Leader_at_the_Front_Band_sRCu8Qp.png)
