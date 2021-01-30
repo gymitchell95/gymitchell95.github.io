@@ -1,7 +1,7 @@
 ---
 title: Projects of Grace Mitchell
 ---
-
+# LCLD
 THE LEADERSHIP COUNCIL ON LEGAL DIVERSITY is an organization of more than 350 corporate chief legal officers and law firm managing partners—the leadership of the profession—who have dedicated themselves to creating a truly diverse U.S. legal profession. Our action programs are designed to attract, inspire, and nurture the talent in society and within our organizations, thereby helping a new and more diverse generation of attorneys ascend to positions of leadership. 
 
 
