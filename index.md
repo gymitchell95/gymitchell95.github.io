@@ -15,7 +15,7 @@ Leaders at the Front is a peer-driven initiative designed to make diversity, equ
 
 ![My Picture](/Pics/Leader_at_the_Front_Band_sRCu8Qp.png)
 
-- [Leaders at the Front Pledges](/Projects/index.md)
+- [Leaders at the Front Pledges Most Common Themes](/Projects/index.md)
 
 ---
 
