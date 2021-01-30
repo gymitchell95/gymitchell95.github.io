@@ -8,6 +8,7 @@ THE LEADERSHIP COUNCIL ON LEGAL DIVERSITY is an organization of more than 350 co
 ---
 
 **These are the projects developed for LCLD from 2021 and onward.**
+
 ---
 
 ---
