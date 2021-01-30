@@ -1,6 +1,6 @@
 title: Grace Mitchell
 logo: /assets/img/imresizer.com (1).jpg
-description: "Diversity drives innovation — when we limit who can contribute, we in turn limit what problems we can solve."
+description: *"Diversity drives innovation — when we limit who can contribute, we in turn limit what problems we can solve."*
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
