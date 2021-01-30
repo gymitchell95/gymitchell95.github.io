@@ -2,7 +2,7 @@
 title: Leaders at the Front Pledges
 description: These are the most common themes from the Leaders at the Front pledges from LCLD Members.
 ---
+Leaders at the Front is designed to address the systemic barriers diverse lawyers face. In the pledges submitted to LCLD as of January 27, 2021, these are the areas of impact that LCLD Members included in their pledges.
 
-Here are the files for the Leaders at the Front initiative.
 - [Leader at the Front Pledge Themes (html)](LatFront3.html)
 - [Leader at the Front Pledge Themes (ipynb)](LatFront3.ipynb)
