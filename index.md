@@ -1,5 +1,7 @@
 ---
-title: Projects of Grace Mitchell
+title: Grace Mitchell
+logo: (/Pics/LCLDLogoRev2014.jpg)
+description: All things work
 ---
 
 These are the projects developed for work from 2021 and onward.
