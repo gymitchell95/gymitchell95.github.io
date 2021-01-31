@@ -13,6 +13,7 @@ Launched in the fall of 2020, the Leaders at the Front is a peer-driven initiati
 
 - [Leaders at the Front Pledges Most Common Themes](/Projects/index.md)
 ---
+
 # MSBA at William and Mary Projects 
 ---
 - Projects coming soon...
