@@ -1,7 +1,7 @@
 
-
-# The Leadership Council on Legal Diversity
-THE LEADERSHIP COUNCIL ON LEGAL DIVERSITY is an organization of more than 350 corporate chief legal officers and law firm managing partners—the leadership of the profession—who have dedicated themselves to creating a truly diverse U.S. legal profession. Our action programs are designed to attract, inspire, and nurture the talent in society and within our organizations, thereby helping a new and more diverse generation of attorneys ascend to positions of leadership. 
+# About Me
+![My Picture](/assets/img/14352527_1090826970971979_1855342242183162885_o.jpg)
+Hello, world! My name is Grace, and I currently am a Master's student at William and Mary for Business Analytics. In addition to being a full time student, I also work at a nonprofit (LCLD) where I supports all of the organization's membership and operations initiatives. This page will primarily focus on projects I have worked on at school as well as work to showcase the skills I have learned through the MSBA program. If you have any questions, you can raech out to me at gymitchell@email.wm.edu.
 
 ---
 
@@ -15,4 +15,6 @@ Launched in the fall of 2020, the Leaders at the Front is a peer-driven initiati
 
 ---
 
+MSBA at William and Mary
+- Projects Coming soon...
 
