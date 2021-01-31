@@ -2,7 +2,7 @@
 # About Me 
 ![My Picture](/assets/img/circle-cropped.png) 
 
-Hello, world! My name is Grace, and I currently am a Master's student at William and Mary for Business Analytics. In addition to being a full time student, I also work at a nonprofit (LCLD) where I supports all of the organization's membership and operations initiatives. This page will primarily focus on projects I have worked on at school as well as work to showcase the skills I have learned through the MSBA program. If you have any questions, you can raech out to me at gymitchell@email.wm.edu.
+Hello, world! My name is Grace, and I currently am a Master's student at William and Mary for Business Analytics. In addition to being a full time student, I also work at a nonprofit (LCLD) where I supports all of the organization's membership and operations initiatives. This page will primarily focus on projects I have worked on at school as well as work to showcase the skills I have learned through the MSBA program. If you have any questions, you can reach out to me at gymitchell@email.wm.edu.
 
 ---
 # LCLD Projects
