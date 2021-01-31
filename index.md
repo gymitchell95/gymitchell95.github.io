@@ -13,7 +13,7 @@ Hello, world! My name is Grace, and I currently am a Master's student at William
 
 Launched in the fall of 2020, the Leaders at the Front is a peer-driven initiative designed to make diversity, equity, and inclusion sustainable within our organizations and our profession. It asks the Members of LCLD, the leaders of the legal profession, to expand their commitments to inclusion by personally creating leadership paths for diverse attorneys and driving sustainable cultural changes within their organizations.
 
--[Leaders at the Front Pledges Most Common Themes](/Projects/index.md)
+- [Leaders at the Front Pledges Most Common Themes](/Projects/index.md)
 
 ---
 # MSBA at William and Mary Projects 
