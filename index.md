@@ -1,9 +1,10 @@
 
 # About Me
-![My Picture](/assets/img/14352527_1090826970971979_1855342242183162885_o.jpg)
+![My Picture](/assets/img/imresizer.com (2).jpg)
 Hello, world! My name is Grace, and I currently am a Master's student at William and Mary for Business Analytics. In addition to being a full time student, I also work at a nonprofit (LCLD) where I supports all of the organization's membership and operations initiatives. This page will primarily focus on projects I have worked on at school as well as work to showcase the skills I have learned through the MSBA program. If you have any questions, you can raech out to me at gymitchell@email.wm.edu.
 
 ---
+# LCLD Projects
 
 ![My Picture](/Pics/Leader_at_the_Front_Band_sRCu8Qp.png)
 
@@ -15,6 +16,6 @@ Launched in the fall of 2020, the Leaders at the Front is a peer-driven initiati
 
 ---
 
-MSBA at William and Mary
-- Projects Coming soon...
+# MSBA at William and Mary Projects 
+- Projects coming soon...
 
